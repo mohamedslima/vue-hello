@@ -7,3 +7,39 @@
 body {
     background-color: rgba(168, 247, 247, 0.904);
 }
+
+header {
+    padding: 3rem;
+    background-color: rgba(80, 181, 215, 0.461);
+    border: 3px solid black;
+}
+
+h1 {
+    color: rgb(20, 137, 196);
+    text-align: center;
+    font-size: 3rem;
+}
+
+h2 {
+    background-color: rgba(103, 183, 210, 0.461);
+    padding: 1.5rem;
+    text-align: center;
+    border: 2px solid black;
+}
+
+
+img {
+    width: 50%;
+    margin-top: 2rem;
+    border: 1px solid black;
+}
+
+div.change-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
